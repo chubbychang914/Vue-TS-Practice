@@ -4,4 +4,10 @@
   </div>
 </template>
 
-<style scoped></style>
+<style lang="scss" scoped>
+#AboutView {
+  background-color: blue;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
