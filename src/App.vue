@@ -16,4 +16,9 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <style lang="scss" scoped>
+nav {
+  background-color: black;
+  color: white;
+  height: 8vh;
+}
 </style>
